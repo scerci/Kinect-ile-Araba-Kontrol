@@ -1,0 +1,57 @@
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\scerci\Desktop\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Mvvm.v15.1.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Xpf.Ribbon.v15.1.xml
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\de\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\es\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\ja\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\ru\DevExpress.Xpf.Ribbon.v15.1.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe.licenses
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\scerci\Desktop\Bitirme Projesi\iskeletuygulama\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
