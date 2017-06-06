@@ -1,1 +1,3 @@
 # ControlCarWithKinect
+
+WİKİ KISMINA ULAŞARAK DETAYLI BİLGİ ALABİLİRSİNİZ
